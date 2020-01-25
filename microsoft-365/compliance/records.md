@@ -74,7 +74,7 @@ When you create a retention label, you have the option to use the retention labe
 3. [Publish](labels.md#how-retention-labels-work-with-retention-label-policies) or [auto-apply](labels.md#applying-a-retention-label-automatically-based-on-conditions) the retention label to SharePoint sites and/or OneDrive accounts.
 
 > [!NOTE]
-> Declaring an item as a record using [retention labels](labels.md) requires an Office 365 Enterprise E5 license or equivalent for each user who has permissions to edit content in this location. Users who have read-only access don't require a license.
+> The Microsoft 365 Compliance Center Records Management solution requires a Microsoft 365 E5 Compliance license or equivalent for each user who has permissions to edit content in this location. Users who have read-only access don't require a license.
 
 
 ### Applying a retention label to content
